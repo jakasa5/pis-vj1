@@ -11,6 +11,7 @@ namespace pisvj1
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("ražanj");
+            Console.WriteLine("tuđa promjena");
         }
     }
 }
